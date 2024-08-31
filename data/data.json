@@ -5,7 +5,7 @@
     "Price": "9€",
     "Image": "https://img.freepik.com/free-psd/delicious-cheese-pizza-isolated-transparent-background_84443-1205.jpg?w=740&t=st=1713782238~exp=1713782838~hmac=7e41c5e6344ae94ccb7887ea0f3d003d86e68205d684db51367a3735aee45539",
     "Category": "Pizza",
-    "Description": "Ukusna pizza s rajčicom, sirom, kobasicom, cherry rajčicom, bosiljkom i origanom."
+    "Description": "A delicious pizza with tomato, cheese, pepperoni, cherry tomato, basil, and oregano."
   },
   {
     "Name": "Vegan",
@@ -13,7 +13,7 @@
     "Price": "8€",
     "Image": "https://img.freepik.com/free-psd/delicious-cheese-pizza-isolated-transparent-background_84443-1224.jpg?w=740&t=st=1713782311~exp=1713782911~hmac=49cc4b59fd6f7f18db01009837a820d80565be8862b9d710fde74b7e4671ebf5",
     "Category": "Pizza",
-    "Description": "Jednostavna i ukusna veganska pizza s rajčicom, sirom i bosiljkom."
+    "Description": "A simple and tasty vegan pizza with tomato, cheese, and basil."
   },
   {
     "Name": "Pepperoni",
@@ -21,7 +21,7 @@
     "Price": "8.5€",
     "Image": "https://img.freepik.com/free-psd/pepperoni-isolated-transparent-background_191095-39895.jpg?w=740&t=st=1713782402~exp=1713783002~hmac=34fbeee247eff7ef853d7e166518c2c865fadc43df438f0c3e9c2edc6a2bd858",
     "Category": "Pizza",
-    "Description": "Klasična pizza s bogatim okusom kobasice, rajčicom i sirom."
+    "Description": "A classic pizza with the rich taste of pepperoni, tomato, and cheese."
   },
   {
     "Name": "Lipizzano",
@@ -29,7 +29,7 @@
     "Price": "9€",
     "Image": "https://img.freepik.com/free-psd/pictou-county-pizza-isolated-transparent-background_191095-32844.jpg?w=740&t=st=1713782461~exp=1713783061~hmac=967e36bf01d79810186f606e4664feea6cd1a79540826bdcf367420fceed5a8a",
     "Category": "Pizza",
-    "Description": "Pizza s bogatim okusima, uključujući kobasicu, luk, cherry rajčice i rikolu."
+    "Description": "A pizza with rich flavors, including pepperoni, onion, cherry tomatoes, and arugula."
   },
   {
     "Name": "Monster burger",
@@ -37,7 +37,7 @@
     "Price": "10€",
     "Image": "https://img.freepik.com/premium-psd/qottab-isolated-transparent-background_191095-31767.jpg?w=740",
     "Category": "Burger",
-    "Description": "Ogroman burger s tri goveđe pljeskavice, cheddar sirom, slaninom, salatom i aurora umakom."
+    "Description": "A massive burger with triple beef patties, cheddar cheese, bacon, lettuce, and aurora dressing."
   },
   {
     "Name": "Classic burger",
@@ -45,7 +45,7 @@
     "Price": "8€",
     "Image": "https://img.freepik.com/premium-psd/qottab-isolated-transparent-background_191095-31767.jpg?w=740",
     "Category": "Burger",
-    "Description": "Klasični burger s goveđom pljeskavicom, cheddar sirom, rajčicom, salatom, lukom i krastavcima."
+    "Description": "A classic burger with a beef patty, cheddar cheese, tomato, lettuce, onion, and cucumber."
   },
   {
     "Name": "Double double burger",
@@ -53,7 +53,7 @@
     "Price": "9€",
     "Image": "https://img.freepik.com/premium-psd/qottab-isolated-transparent-background_191095-31767.jpg?w=740",
     "Category": "Burger",
-    "Description": "Burger s dvostrukom goveđom pljeskavicom, cheddarom, američkim sirom, rajčicom i salatom."
+    "Description": "A burger with double beef patties, cheddar, American cheese, tomato, and lettuce."
   },
   {
     "Name": "beef fillet steak",
@@ -61,7 +61,7 @@
     "Price": "18€",
     "Image": "https://img.freepik.com/free-psd/tasty-grilled-beef-fillet-steak-isolated-transparent-background_191095-10387.jpg?w=740&t=st=1713783229~exp=1713783829~hmac=42e54598b01a5d23220f64ebd26f8228cc659da8b286023a9ddc6d8d5a78b0ec",
     "Category": "Grill",
-    "Description": "Sočni biftek poslužen s demi-glace umakom."
+    "Description": "A juicy beef fillet steak served with a demi-glace sauce."
   },
   {
     "Name": "Grilled chicken",
@@ -69,7 +69,7 @@
     "Price": "11€",
     "Image": "https://img.freepik.com/free-psd/grilled-chicken-isolated-transparent-background_191095-39901.jpg?w=740&t=st=1713783278~exp=1713783878~hmac=b551e37fcfcbbceaec9b3d264e368c11c7a75f436d37cf57cad7adf77e73677d",
     "Category": "Grill",
-    "Description": "Ukusno bijelo meso piletine s roštilja."
+    "Description": "Delicious grilled white chicken meat."
   },
   {
     "Name": "Pork bites",
@@ -77,7 +77,7 @@
     "Price": "13€",
     "Image": "https://img.freepik.com/free-psd/yakitori-isolated-transparent-background_191095-28014.jpg?w=740&t=st=1713783329~exp=1713783929~hmac=faccf4e5cc2a02b5f570c091310d681937497b2296a6a504ca4ed50c4bcdabf4",
     "Category": "Grill",
-    "Description": "Slastni zalogaji trgane svinjetine u BBQ umaku."
+    "Description": "Tasty pork bites in BBQ sauce."
   },
   {
     "Name": "Pommes frites",
@@ -85,7 +85,7 @@
     "Price": "2€",
     "Image": "https://img.freepik.com/premium-psd/bowl-french-fries-isolated-transparent-background_191095-16785.jpg?w=740",
     "Category": "Side dish",
-    "Description": "Hrskavi pommes frites savršeni kao prilog."
+    "Description": "Crispy pommes frites, perfect as a side dish."
   },
   {
     "Name": "Mushed potato",
@@ -93,7 +93,7 @@
     "Price": "2€",
     "Image": "https://img.freepik.com/free-psd/mashed-potato-isolated-transparent-background_191095-29424.jpg?w=740&t=st=1713783676~exp=1713784276~hmac=aaed5b39a136ad05d9174a24b3b2b201a51f8650803df5ece9168f85394f820f",
     "Category": "Side dish",
-    "Description": "Kremasti pire krumpir kao savršeni prilog."
+    "Description": "Creamy mashed potato, a perfect side dish."
   },
   {
     "Name": "Baked beans",
@@ -101,7 +101,7 @@
     "Price": "2€",
     "Image": "https://img.freepik.com/premium-psd/baked-beans-isolated-transparent-background_191095-43375.jpg?w=740",
     "Category": "Side dish",
-    "Description": "Zapečeni grah kao prilog uz bilo koje jelo."
+    "Description": "Classic baked beans, a great side for any meal."
   },
   {
     "Name": "Chocolate sundae",
@@ -109,7 +109,7 @@
     "Price": "5€",
     "Image": "https://img.freepik.com/free-psd/delicious-chocolate-sundae-isolated-transparent-background_191095-9316.jpg?w=740&t=st=1713783905~exp=1713784505~hmac=c0497d0e3d3184b0788c54493193fe52d88abd7fb37c819f5520f6045bafa58a",
     "Category": "Dessert",
-    "Description": "Osvježavajući čokoladni sundae sa šlagom i karameliziranim orašastim plodovima."
+    "Description": "A refreshing chocolate sundae with whipped cream and caramelized nuts."
   },
   {
     "Name": "Lava cake",
@@ -117,7 +117,7 @@
     "Price": "6€",
     "Image": "https://img.freepik.com/premium-psd/delicious-chocolate-lava-cake-isolated-transparent-background_191095-12784.jpg?w=740",
     "Category": "Dessert",
-    "Description": "Vrući čokoladni lava kolač poslužen s kuglicom sladoleda."
+    "Description": "A hot chocolate lava cake served with a scoop of ice cream."
   },
   {
     "Name": "Lime cheesecake",
@@ -125,6 +125,6 @@
     "Price": "6€",
     "Image": "https://img.freepik.com/free-psd/delicious-key-lime-cream-cake-isolated-transparent-background_191095-11738.jpg?w=740&t=st=1713784129~exp=1713784729~hmac=282e1bb2e9c6b14f95494c5eee79ee27bc4bab8bafc5887be3411e8b84d60e5a",
     "Category": "Dessert",
-    "Description": "Svježi cheesecake s limetom i hrskavim Biscoff keksima."
+    "Description": "A fresh lime cheesecake with a crunchy Biscoff biscuit base."
   }
 ]
